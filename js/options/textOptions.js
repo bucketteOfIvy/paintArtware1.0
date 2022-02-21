@@ -1,4 +1,4 @@
-/* global C2D */
+/* global C2D, Sent */
 window.options.textOptions = {
   name: 'text options',
   // not sure how relevant state.text is
