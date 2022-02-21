@@ -6,11 +6,16 @@
     "oscCircles",
     "pencil",
     "vignette",
+    "multiplePen",
     "eraser",
     "smile",
     "concentricCircle",
     "rippleCircle",
-    "hackerText"
+    "hackerText",
+    "flowers",
+    "ten_print",
+    "glitch",
+    "rainbow"
   ],
   "filters": [
     "invert",
